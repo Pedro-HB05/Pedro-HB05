@@ -13,7 +13,7 @@ Meus repositórios refletem essa fase de aprendizado — com projetos simples, e
 <div>
         <a href="https://github.com/Pedro-HB05"></a>
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-HB05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-HB05&layout=compact&langs_conts=16&theme=dark"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-HB05&layout=compact&langs_conts=16&theme=dark"/>
     </div>
 
 🚀 Tecnologias em Estudo
