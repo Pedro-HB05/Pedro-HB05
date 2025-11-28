@@ -1,6 +1,6 @@
 👋 Oi! Eu sou o Pedro Henrique
 ##
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha jornada na área de tecnologia com dedicação e curiosidade para aprender cada vez mais.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha jornada na área de tecnologia.
 
 Atualmente, venho estudando e praticando:
 Linguagem C: Aprendi na faculdade, principalmente em trabalhos práticos voltados ao desenvolvimento da lógica de programação.
