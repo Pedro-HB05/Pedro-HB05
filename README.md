@@ -13,11 +13,11 @@ Meus repositórios refletem essa fase de aprendizado — com projetos simples, e
 <div>
   <a href="https://github.com/Pedro-HB05">
     <img height="180em"
-      src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Pedro-HB05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      src="https://github-readme-stats.vercel.app/api?username=Pedro-HB05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
 
   <img height="130em"
-    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Pedro-HB05&layout=compact&langs_count=16&theme=dark"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-HB05&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 
